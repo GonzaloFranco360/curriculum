@@ -101,3 +101,5 @@ google_analytics_tracking_id:
 facebook_like: false
 
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
+
+theme: jekyll-theme-cayman
